@@ -1,0 +1,301 @@
+Order_ID,Customer_ID,Order_Date,Payment_Method,Shipping_Method,Total_Amount,Quantity,Product_ID
+1,96,2023-04-29,Credit Card,Express,267.43,1,30
+2,14,2023-08-16,PayPal,Overnight,310.72,5,22
+3,54,2023-06-25,Bank Transfer,Standard,112.35,3,3
+4,34,2023-07-11,Cash on Delivery,Express,217.89,5,43
+5,77,2023-01-22,Credit Card,Standard,395.63,3,30
+6,85,2023-01-13,PayPal,Express,162.12,4,48
+7,93,2023-05-16,PayPal,Express,188.47,5,29
+8,40,2023-04-23,PayPal,Express,373.39,2,27
+9,49,2023-10-15,Credit Card,Standard,285.72,5,12
+10,31,2023-04-18,Bank Transfer,Express,197.42,4,1
+11,8,2023-09-05,PayPal,Standard,412.56,3,28
+12,83,2023-12-23,Bank Transfer,Standard,129.22,2,45
+13,90,2023-01-13,Cash on Delivery,Overnight,485.79,4,30
+14,65,2023-08-31,Credit Card,Overnight,250.32,5,44
+15,80,2023-01-02,Cash on Delivery,Overnight,101.37,5,50
+16,1,2023-02-15,Cash on Delivery,Express,396.25,1,8
+17,16,2023-09-15,Bank Transfer,Standard,446.86,2,41
+18,70,2023-03-08,Cash on Delivery,Overnight,499.68,5,24
+19,31,2023-07-19,PayPal,Overnight,34.84,1,6
+20,82,2023-10-13,PayPal,Overnight,280.11,4,34
+21,51,2023-09-05,Cash on Delivery,Overnight,307.61,5,32
+22,54,2023-01-06,Credit Card,Standard,212.89,1,18
+23,55,2023-04-24,PayPal,Overnight,169.91,3,9
+24,54,2023-01-15,Cash on Delivery,Overnight,137.43,1,26
+25,69,2023-06-01,PayPal,Standard,190.0,1,38
+26,25,2023-04-12,Cash on Delivery,Standard,267.83,5,17
+27,52,2023-12-15,Bank Transfer,Overnight,309.76,5,48
+28,17,2023-09-08,PayPal,Overnight,431.39,5,5
+29,29,2023-09-19,Cash on Delivery,Overnight,430.54,5,50
+30,20,2023-09-06,Bank Transfer,Express,180.99,4,24
+31,5,2023-12-05,Cash on Delivery,Standard,473.45,3,36
+32,33,2023-06-15,PayPal,Overnight,262.55,2,17
+33,5,2023-01-11,Bank Transfer,Standard,151.99,3,4
+34,32,2023-12-17,PayPal,Standard,354.39,1,5
+35,48,2023-11-10,PayPal,Standard,431.15,5,31
+36,82,2023-11-27,Cash on Delivery,Standard,192.99,2,47
+37,29,2023-10-03,Bank Transfer,Standard,381.27,1,32
+38,50,2023-06-07,Credit Card,Overnight,200.79,3,21
+39,91,2023-02-28,Credit Card,Overnight,222.05,5,2
+40,88,2023-08-02,PayPal,Express,467.01,1,44
+41,73,2023-08-03,Cash on Delivery,Standard,245.11,4,47
+42,48,2023-03-21,Cash on Delivery,Overnight,448.79,3,5
+43,58,2023-08-15,PayPal,Express,224.65,2,17
+44,65,2023-10-31,PayPal,Standard,161.46,4,32
+45,71,2023-06-15,Cash on Delivery,Express,417.37,2,31
+46,16,2023-10-04,Credit Card,Overnight,248.1,4,47
+47,12,2023-07-11,Credit Card,Standard,234.25,5,50
+48,85,2023-08-14,PayPal,Overnight,53.13,2,46
+49,49,2023-11-25,PayPal,Standard,246.29,2,28
+50,61,2023-12-09,Credit Card,Overnight,315.05,2,37
+51,32,2023-12-19,Cash on Delivery,Express,11.88,1,6
+52,8,2023-04-30,Cash on Delivery,Overnight,470.65,5,23
+53,84,2023-09-10,Bank Transfer,Overnight,157.94,2,11
+54,6,2023-03-22,PayPal,Standard,359.08,5,37
+55,56,2023-06-11,Credit Card,Standard,347.07,3,38
+56,90,2023-10-30,Credit Card,Standard,131.41,2,44
+57,83,2023-07-14,Credit Card,Express,499.5,3,41
+58,25,2023-01-09,PayPal,Standard,280.33,2,35
+59,86,2023-04-09,Credit Card,Standard,114.49,3,28
+60,59,2023-08-16,Cash on Delivery,Express,156.65,3,37
+61,54,2023-11-30,Credit Card,Overnight,125.93,2,1
+62,31,2023-06-07,Bank Transfer,Express,278.46,5,9
+63,72,2023-01-07,Cash on Delivery,Express,137.81,2,15
+64,9,2023-12-23,Credit Card,Standard,420.08,3,50
+65,65,2023-02-13,Cash on Delivery,Overnight,72.62,5,34
+66,57,2023-08-05,Cash on Delivery,Express,244.84,4,41
+67,95,2023-11-22,Bank Transfer,Express,461.92,1,29
+68,15,2023-06-17,Bank Transfer,Express,329.59,3,17
+69,44,2023-07-08,Credit Card,Express,186.98,5,31
+70,87,2023-02-09,Cash on Delivery,Standard,323.69,3,38
+71,90,2023-06-24,Credit Card,Standard,474.6,2,1
+72,24,2023-01-28,Bank Transfer,Overnight,494.6,5,18
+73,22,2023-12-12,Credit Card,Standard,457.12,3,40
+74,78,2023-05-29,Cash on Delivery,Standard,19.22,1,25
+75,30,2023-11-08,PayPal,Express,356.86,5,21
+76,86,2023-03-13,PayPal,Overnight,266.85,2,13
+77,52,2023-11-25,Cash on Delivery,Express,216.73,2,4
+78,70,2023-11-14,Credit Card,Overnight,173.0,4,40
+79,93,2023-04-14,Cash on Delivery,Express,16.71,2,40
+80,64,2023-01-25,Cash on Delivery,Express,226.61,4,19
+81,94,2023-10-21,Credit Card,Express,343.24,5,33
+82,92,2023-08-21,Bank Transfer,Overnight,371.13,1,43
+83,12,2023-05-20,Credit Card,Express,148.64,5,50
+84,83,2023-11-27,Bank Transfer,Standard,408.86,4,23
+85,95,2023-05-03,Credit Card,Overnight,85.78,4,25
+86,92,2023-10-05,PayPal,Standard,355.61,2,48
+87,71,2023-09-06,Bank Transfer,Standard,279.8,4,11
+88,62,2023-12-10,Cash on Delivery,Standard,164.06,1,17
+89,94,2023-12-21,Cash on Delivery,Standard,379.45,1,40
+90,83,2023-05-12,Bank Transfer,Standard,33.6,4,9
+91,64,2023-05-20,Credit Card,Overnight,48.06,5,47
+92,27,2023-07-23,Credit Card,Overnight,443.94,1,26
+93,25,2023-01-15,PayPal,Standard,252.5,2,23
+94,58,2023-06-03,PayPal,Express,412.74,4,39
+95,89,2023-08-10,PayPal,Express,272.25,3,12
+96,18,2023-05-08,Credit Card,Overnight,363.78,4,31
+97,10,2023-05-08,Credit Card,Overnight,189.55,4,39
+98,55,2023-09-26,PayPal,Express,280.99,3,11
+99,82,2023-04-26,Credit Card,Overnight,276.77,3,13
+100,43,2023-08-01,Credit Card,Standard,232.56,3,22
+101,88,2023-04-23,Credit Card,Overnight,361.23,5,5
+102,6,2023-07-11,PayPal,Overnight,361.38,5,20
+103,19,2023-12-29,Cash on Delivery,Overnight,186.22,1,32
+104,41,2023-06-06,Credit Card,Express,188.45,3,28
+105,79,2023-03-25,Credit Card,Express,66.57,3,41
+106,36,2023-05-01,PayPal,Overnight,99.34,1,50
+107,67,2023-01-08,Credit Card,Standard,462.9,1,36
+108,96,2023-10-07,Credit Card,Overnight,404.16,3,2
+109,92,2023-05-17,Credit Card,Express,432.42,4,33
+110,51,2023-01-29,Credit Card,Express,113.35,1,35
+111,78,2023-09-22,Credit Card,Express,382.33,2,27
+112,79,2023-05-11,PayPal,Express,113.34,3,30
+113,70,2023-09-02,Bank Transfer,Overnight,78.64,2,31
+114,73,2023-08-21,PayPal,Express,184.89,5,40
+115,62,2023-04-01,Credit Card,Overnight,298.48,4,28
+116,48,2023-02-11,PayPal,Overnight,386.74,3,46
+117,20,2023-12-18,Bank Transfer,Overnight,382.79,4,19
+118,44,2023-09-28,PayPal,Express,131.8,4,32
+119,100,2023-08-08,Cash on Delivery,Overnight,364.51,4,38
+120,18,2023-01-22,Bank Transfer,Overnight,459.57,2,34
+121,67,2023-11-30,Cash on Delivery,Standard,389.06,2,39
+122,32,2023-03-25,PayPal,Overnight,490.4,4,42
+123,15,2023-06-10,PayPal,Overnight,183.98,2,23
+124,70,2023-05-18,Credit Card,Overnight,289.97,3,14
+125,30,2023-10-07,Bank Transfer,Standard,384.95,5,12
+126,89,2023-10-12,PayPal,Express,181.41,5,16
+127,21,2023-05-15,Credit Card,Overnight,72.39,3,5
+128,90,2023-10-22,PayPal,Standard,487.2,2,25
+129,68,2023-01-27,Cash on Delivery,Standard,70.28,5,17
+130,64,2023-09-02,PayPal,Standard,58.65,4,22
+131,41,2023-08-20,Bank Transfer,Standard,73.36,4,50
+132,69,2023-10-20,Bank Transfer,Express,492.98,1,2
+133,67,2023-09-07,Credit Card,Express,44.56,3,19
+134,1,2023-06-22,PayPal,Express,190.27,5,39
+135,38,2023-11-25,Credit Card,Express,169.49,1,25
+136,46,2023-09-18,Bank Transfer,Overnight,332.65,5,36
+137,74,2023-02-03,PayPal,Express,484.72,5,4
+138,8,2023-09-17,Cash on Delivery,Overnight,328.94,2,28
+139,93,2023-07-21,PayPal,Overnight,224.98,5,11
+140,92,2023-09-15,Credit Card,Express,424.96,3,13
+141,88,2023-08-22,Cash on Delivery,Express,166.29,2,43
+142,29,2023-12-20,Bank Transfer,Express,281.5,3,45
+143,24,2023-03-09,PayPal,Standard,250.85,4,1
+144,99,2023-07-31,Cash on Delivery,Express,97.89,1,22
+145,92,2023-01-28,Cash on Delivery,Express,89.46,5,28
+146,39,2023-12-26,Cash on Delivery,Express,283.88,1,37
+147,42,2023-06-25,Credit Card,Standard,148.91,3,16
+148,14,2023-07-19,PayPal,Express,114.02,3,12
+149,17,2023-10-09,Cash on Delivery,Standard,255.82,4,46
+150,76,2023-06-01,Bank Transfer,Standard,234.95,4,32
+151,15,2023-07-03,PayPal,Standard,120.4,3,41
+152,44,2023-02-02,Cash on Delivery,Overnight,196.84,1,12
+153,30,2023-07-29,Bank Transfer,Standard,214.81,1,41
+154,72,2023-11-03,Credit Card,Overnight,33.89,2,13
+155,94,2023-03-01,Credit Card,Overnight,312.41,4,23
+156,84,2023-07-07,PayPal,Express,163.1,5,38
+157,24,2023-09-12,Bank Transfer,Express,34.32,3,49
+158,62,2023-01-21,Bank Transfer,Overnight,397.85,1,39
+159,70,2023-03-11,PayPal,Overnight,477.81,2,34
+160,45,2023-08-11,Cash on Delivery,Standard,112.54,2,38
+161,19,2023-06-01,Bank Transfer,Overnight,390.26,4,45
+162,61,2023-12-22,PayPal,Express,176.63,2,4
+163,91,2023-02-11,Cash on Delivery,Standard,401.27,4,30
+164,32,2023-03-02,Cash on Delivery,Overnight,88.05,1,13
+165,22,2023-04-29,PayPal,Standard,302.82,1,9
+166,33,2023-08-28,Cash on Delivery,Express,250.99,4,31
+167,5,2023-09-29,Cash on Delivery,Express,19.82,2,18
+168,91,2023-10-18,Credit Card,Express,38.35,2,14
+169,78,2023-10-17,Credit Card,Express,415.31,1,37
+170,10,2023-04-28,Bank Transfer,Overnight,209.76,5,39
+171,99,2023-05-28,PayPal,Standard,87.16,1,4
+172,11,2023-03-25,Bank Transfer,Overnight,194.85,5,44
+173,7,2023-04-14,Credit Card,Standard,351.39,5,27
+174,45,2023-10-17,Credit Card,Overnight,253.08,2,36
+175,76,2023-02-26,PayPal,Standard,362.11,4,1
+176,52,2023-06-17,Cash on Delivery,Express,239.51,5,12
+177,31,2023-10-07,PayPal,Standard,187.08,3,48
+178,57,2023-10-11,Credit Card,Standard,353.95,4,48
+179,34,2023-11-01,Bank Transfer,Overnight,312.1,5,1
+180,5,2023-07-05,Credit Card,Standard,439.63,1,5
+181,36,2023-07-17,PayPal,Overnight,235.68,5,37
+182,13,2023-10-08,PayPal,Express,11.6,4,45
+183,67,2023-04-14,PayPal,Overnight,217.03,4,21
+184,65,2023-02-10,Bank Transfer,Express,318.21,1,11
+185,98,2023-07-26,Credit Card,Overnight,249.24,1,39
+186,15,2023-11-04,PayPal,Express,450.74,3,18
+187,58,2023-07-24,PayPal,Standard,284.66,2,44
+188,91,2023-01-17,PayPal,Express,45.14,4,34
+189,26,2023-08-19,PayPal,Express,100.2,5,15
+190,27,2023-04-05,Credit Card,Express,393.3,2,33
+191,65,2023-11-26,PayPal,Express,89.27,1,8
+192,76,2023-04-23,Credit Card,Standard,246.59,5,36
+193,42,2023-06-04,Credit Card,Express,363.75,3,34
+194,26,2023-06-13,Bank Transfer,Express,120.98,1,45
+195,9,2023-09-22,Cash on Delivery,Express,175.42,3,44
+196,80,2023-01-26,Bank Transfer,Overnight,457.24,5,14
+197,8,2023-03-24,Cash on Delivery,Standard,443.12,5,20
+198,100,2023-06-20,PayPal,Standard,61.97,3,32
+199,19,2023-04-29,Bank Transfer,Overnight,24.1,2,6
+200,26,2023-10-18,Cash on Delivery,Overnight,177.02,4,23
+201,43,2023-10-06,PayPal,Standard,385.65,1,15
+202,72,2023-08-04,PayPal,Overnight,77.77,1,10
+203,22,2023-05-14,PayPal,Express,228.28,4,8
+204,32,2023-07-20,Bank Transfer,Overnight,61.68,3,33
+205,73,2023-06-10,PayPal,Overnight,127.94,3,19
+206,1,2023-03-28,Cash on Delivery,Express,145.43,3,46
+207,8,2023-04-24,Credit Card,Express,496.45,3,17
+208,5,2023-09-14,PayPal,Overnight,191.1,4,30
+209,30,2023-06-12,Bank Transfer,Standard,377.1,1,1
+210,64,2023-03-29,Cash on Delivery,Overnight,397.45,1,30
+211,95,2023-02-15,Credit Card,Express,304.97,1,6
+212,1,2023-06-26,Credit Card,Standard,437.39,4,48
+213,64,2023-03-09,Bank Transfer,Express,161.17,5,19
+214,45,2023-12-21,Cash on Delivery,Overnight,189.84,4,48
+215,81,2023-08-06,Cash on Delivery,Overnight,247.73,5,47
+216,94,2023-07-08,PayPal,Express,438.28,5,40
+217,32,2023-11-01,Credit Card,Express,114.61,1,27
+218,91,2023-10-28,Credit Card,Express,177.74,5,36
+219,6,2023-06-06,PayPal,Express,362.06,3,24
+220,76,2023-05-09,PayPal,Standard,409.07,2,4
+221,14,2023-11-07,PayPal,Express,370.22,3,36
+222,48,2023-11-12,Bank Transfer,Overnight,366.12,2,47
+223,73,2023-06-30,Bank Transfer,Standard,408.63,2,3
+224,66,2023-11-22,Cash on Delivery,Overnight,273.56,4,12
+225,96,2023-04-07,PayPal,Standard,474.7,4,7
+226,89,2023-03-26,Cash on Delivery,Standard,331.27,3,21
+227,42,2023-08-14,Cash on Delivery,Express,372.28,4,45
+228,81,2023-01-05,Bank Transfer,Standard,496.82,2,20
+229,49,2023-08-09,Cash on Delivery,Overnight,426.0,4,39
+230,53,2023-10-21,PayPal,Express,267.0,3,44
+231,80,2023-02-10,Credit Card,Standard,484.1,3,44
+232,71,2023-03-29,PayPal,Standard,263.51,3,25
+233,42,2023-04-20,Bank Transfer,Express,87.43,3,8
+234,55,2023-11-28,Cash on Delivery,Express,345.02,5,25
+235,95,2023-08-07,Bank Transfer,Standard,212.79,3,4
+236,3,2023-01-21,Credit Card,Express,390.46,2,5
+237,77,2023-01-15,Bank Transfer,Express,59.22,2,26
+238,22,2023-12-31,Credit Card,Express,87.87,4,12
+239,15,2023-09-12,Credit Card,Standard,81.28,2,31
+240,7,2023-07-06,PayPal,Express,182.67,1,32
+241,24,2023-05-10,Cash on Delivery,Express,155.62,5,8
+242,19,2023-08-05,PayPal,Overnight,391.12,2,6
+243,99,2023-09-22,Cash on Delivery,Overnight,455.37,4,15
+244,60,2023-08-19,Cash on Delivery,Express,328.32,2,21
+245,67,2023-09-30,Credit Card,Standard,366.94,5,9
+246,72,2023-07-13,Cash on Delivery,Overnight,448.28,5,32
+247,27,2023-04-18,Bank Transfer,Overnight,137.61,2,26
+248,71,2023-03-23,PayPal,Express,496.6,3,16
+249,62,2023-07-15,Credit Card,Express,474.39,2,12
+250,98,2023-01-17,PayPal,Overnight,426.26,2,3
+251,29,2023-03-21,Bank Transfer,Overnight,392.66,4,38
+252,63,2023-08-20,PayPal,Express,87.79,2,47
+253,57,2023-09-30,Bank Transfer,Overnight,355.38,4,22
+254,61,2023-08-18,PayPal,Overnight,389.71,5,18
+255,39,2023-11-12,PayPal,Standard,288.24,2,6
+256,42,2023-04-13,Bank Transfer,Express,498.29,4,20
+257,56,2023-08-21,Bank Transfer,Overnight,24.76,2,10
+258,56,2023-05-07,Bank Transfer,Express,162.01,4,15
+259,67,2023-11-28,Cash on Delivery,Standard,93.96,2,25
+260,80,2023-10-26,Credit Card,Overnight,464.39,3,1
+261,35,2023-01-20,Credit Card,Overnight,327.47,1,13
+262,7,2023-11-01,PayPal,Standard,46.44,2,10
+263,62,2023-10-05,PayPal,Overnight,37.06,4,18
+264,8,2023-10-14,PayPal,Standard,64.27,3,9
+265,1,2023-08-08,Credit Card,Express,481.36,3,39
+266,86,2023-08-21,Credit Card,Standard,78.22,3,37
+267,68,2023-02-09,Credit Card,Standard,129.91,4,21
+268,42,2023-11-02,PayPal,Express,365.91,2,12
+269,63,2023-06-07,Bank Transfer,Standard,99.48,3,49
+270,96,2023-09-13,Bank Transfer,Standard,464.8,4,21
+271,89,2023-12-03,Bank Transfer,Express,45.39,1,46
+272,99,2023-10-31,PayPal,Express,36.96,3,31
+273,30,2023-07-29,Cash on Delivery,Express,368.58,5,37
+274,9,2023-02-19,Bank Transfer,Express,266.58,3,20
+275,71,2023-06-14,Bank Transfer,Standard,447.79,5,41
+276,45,2023-11-13,Bank Transfer,Standard,482.77,5,19
+277,88,2023-08-29,Cash on Delivery,Express,93.62,3,33
+278,71,2023-11-07,PayPal,Overnight,80.77,1,24
+279,1,2023-07-23,Cash on Delivery,Express,497.21,5,31
+280,73,2023-03-29,Credit Card,Express,311.25,1,38
+281,50,2023-12-04,Cash on Delivery,Standard,336.46,2,34
+282,67,2023-04-16,Bank Transfer,Overnight,360.08,3,45
+283,24,2023-08-13,Credit Card,Overnight,66.34,5,5
+284,47,2023-09-03,Bank Transfer,Express,454.46,5,45
+285,44,2023-11-14,Credit Card,Express,212.47,1,43
+286,55,2023-04-14,Cash on Delivery,Express,241.61,5,20
+287,46,2023-03-22,Cash on Delivery,Express,482.99,5,22
+288,18,2023-07-27,PayPal,Overnight,250.33,4,7
+289,22,2023-08-19,Bank Transfer,Overnight,284.43,1,7
+290,31,2023-11-02,Bank Transfer,Standard,492.79,3,29
+291,70,2023-06-02,Cash on Delivery,Overnight,400.03,5,21
+292,10,2023-07-30,Bank Transfer,Overnight,221.8,2,42
+293,83,2023-01-24,PayPal,Express,61.12,3,16
+294,17,2023-10-25,Cash on Delivery,Overnight,393.33,5,37
+295,63,2023-10-06,Cash on Delivery,Standard,41.76,2,37
+296,83,2023-08-21,Cash on Delivery,Overnight,350.81,2,22
+297,58,2023-05-15,Credit Card,Standard,433.33,3,6
+298,52,2023-06-15,Credit Card,Standard,65.53,4,46
+299,14,2023-02-16,Credit Card,Standard,462.68,2,14
+300,32,2023-11-14,Cash on Delivery,Overnight,480.93,5,41

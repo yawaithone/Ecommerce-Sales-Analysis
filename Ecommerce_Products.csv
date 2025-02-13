@@ -1,0 +1,51 @@
+Product_ID,Product_Name,Category,Subcategory,Price
+1,Product 1,Beauty,Laptop,108.05
+2,Product 2,Home & Kitchen,Appliance,21.55
+3,Product 3,Electronics,Shoes,76.7
+4,Product 4,Clothing,Mobile,187.51
+5,Product 5,Home & Kitchen,Laptop,141.28
+6,Product 6,Home & Kitchen,Shirt,60.29
+7,Product 7,Home & Kitchen,Laptop,181.97
+8,Product 8,Clothing,Appliance,138.93
+9,Product 9,Beauty,Appliance,154.05
+10,Product 10,Home & Kitchen,Makeup,165.09
+11,Product 11,Beauty,Laptop,176.04
+12,Product 12,Clothing,Shirt,10.64
+13,Product 13,Clothing,Shoes,12.83
+14,Product 14,Home & Kitchen,Shoes,138.63
+15,Product 15,Electronics,Shoes,175.53
+16,Product 16,Clothing,Laptop,112.1
+17,Product 17,Clothing,Shirt,23.68
+18,Product 18,Electronics,Laptop,177.5
+19,Product 19,Beauty,Laptop,22.69
+20,Product 20,Electronics,Shoes,55.74
+21,Product 21,Clothing,Shoes,134.32
+22,Product 22,Clothing,Shirt,74.58
+23,Product 23,Clothing,Laptop,17.47
+24,Product 24,Beauty,Makeup,53.29
+25,Product 25,Electronics,Makeup,37.02
+26,Product 26,Electronics,Makeup,148.11
+27,Product 27,Home & Kitchen,Shoes,120.34
+28,Product 28,Home & Kitchen,Shoes,145.31
+29,Product 29,Clothing,Shirt,89.85
+30,Product 30,Electronics,Shoes,97.57
+31,Product 31,Clothing,Makeup,21.42
+32,Product 32,Home & Kitchen,Mobile,198.79
+33,Product 33,Electronics,Appliance,102.26
+34,Product 34,Home & Kitchen,Makeup,155.11
+35,Product 35,Clothing,Mobile,18.33
+36,Product 36,Clothing,Mobile,86.93
+37,Product 37,Home & Kitchen,Mobile,85.68
+38,Product 38,Electronics,Shoes,111.78
+39,Product 39,Electronics,Mobile,180.93
+40,Product 40,Beauty,Laptop,153.05
+41,Product 41,Electronics,Mobile,45.43
+42,Product 42,Beauty,Shirt,198.62
+43,Product 43,Home & Kitchen,Appliance,24.63
+44,Product 44,Electronics,Mobile,178.64
+45,Product 45,Home & Kitchen,Shirt,27.96
+46,Product 46,Beauty,Appliance,111.21
+47,Product 47,Clothing,Makeup,169.54
+48,Product 48,Clothing,Shoes,150.72
+49,Product 49,Home & Kitchen,Mobile,100.66
+50,Product 50,Beauty,Laptop,122.06
